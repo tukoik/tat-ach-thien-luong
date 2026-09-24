@@ -1,3 +1,6 @@
+**Tật ách thiên lương và cách luận giải trong Tử Vi**
+=====================================================
+
 Trong Tử Vi Đẩu Số, tật ách thiên lương là trường hợp sao Thiên Lương tọa thủ tại cung Tật Ách trong lá số. Vị trí này cần được luận dựa trên sự kết hợp giữa đặc tính của sao Thiên Lương và ý nghĩa của cung Tật Ách, thay vì chỉ nhìn riêng một yếu tố.
 
 Theo các tài liệu Tử Vi, Thiên Lương là một sao mang tính chất “ấm tinh”, có đặc điểm về sự che chở, bảo hộ, phúc thọ và khả năng giảm bớt những điều bất lợi khi ở vị trí phù hợp. Trong khi đó, cung Tật Ách không chỉ liên quan đến bệnh tật mà còn được xem là phần tâm thức, ý thức, tư duy và tính tình bên trong, được ví như “ngầm cung Mệnh”.
